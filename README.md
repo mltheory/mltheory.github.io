@@ -1,9 +1,9 @@
 
 ### Course Information
 
-* **Course Info**	CS7545, Fall 2018, 3 Credits
-* **Instructor**	Jacob Abernethy Office: Klaus 2112, Email: prof_at_gatech_dot_edu
-* **Time, Place**	MW 4:30-5:45pm, Klaus 2443
+* **Course Info:**	CS7545, Fall 2018
+* **Instructor:**	Jacob Abernethy, **Office:** Klaus 2112, **Email:** prof_at_gatech_dot_edu
+* **Time, Place:**	MW 4:30-5:45pm, Klaus 2443
 * **Office Hours**	TBA
 
 
@@ -15,7 +15,8 @@ This course will study theoretical aspects of prediction problems, where we seek
 
 **Coursework:** There will be 4-5 problem sets, and the final project for the course will consist of the option to do independent research or to give a literature review presentation to the class.
 
-#### Grade Breakdown: TBA
+#### Grade Breakdown: 
+TBA
 
 
 ### References:
