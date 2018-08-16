@@ -36,7 +36,7 @@ In the last several years, several surveys have come out that explore several to
 
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
-| 1 | 20 Aug 2018 | Intro |
+| [1](./scribes/1.pdf) | 20 Aug 2018 | Intro |
 
 
 
@@ -44,4 +44,4 @@ In the last several years, several surveys have come out that explore several to
 
 | Homework | Due Date  | 
 | :------------: |:-------------: |
-| 1 | TBA |
+| [1](./hw/hw1.pdf) | TBA |
