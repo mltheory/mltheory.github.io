@@ -1,30 +1,45 @@
-This is the website for the ML Theory reading group organised by [Jacob Abernethy](http://web.eecs.umich.edu/~jabernet/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Wednesday at 11:30 am in the Klaus Advanced Computing Building.
+
+### Course Information
+
+* **Course Info**	CS7545, Fall 2018, 3 Credits
+* **Instructor**	Jacob Abernethy Office: Klaus 2112, Email: prof_at_gatech_dot_edu
+* **Time, Place**	MW 4:30-5:45pm, Klaus 2443
+* **Office Hours**	TBA
 
 
-### Meetings Schedule and presenters
+### Course Description
 
-#### Spring 2018
+This course will study theoretical aspects of prediction problems, where we seek to understand themathematical underpinnings of machine learning. A primary objective of the class is to bring students to the frontiers of research in this area. The course will cover, among other things, concentration inqualities, uniform deviation bounds, Vapnik-Chervonenkis Theory, Rademacher Complexity, margin bounds, boosting, generalization bounds for artificial neural networks, online learning theory and regret minimization. Along the way, we will dive into several related topics, including connections to convex optimization, minimax equilibrium in games, multi-armed bandit problems, calibration, sequential portfolio selection, option pricing, and differential privacy.
 
-| Date        | Paper         | Presenter |   Location|
-| :-------------: |:-------------: |:-------------: |:-------------: |
-| 10 Jan 2018    | General Discussion |  | Klaus 3100 |
-| 17 Jan 2018 | [Fast Convergence of Regularized Learning in Games](https://arxiv.org/pdf/1507.00407) | Naveen Kodali | Klaus 2100|
-| 24 Jan 2018 | [Learning Linear Dynamical Systems via Spectral Filtering](https://arxiv.org/abs/1711.00946) | [Ben Bray](http://benrbray.com/) | Klaus 2100|
-| 14 Feb 2018 | [On the Complexity of Learning Neural Networks](https://arxiv.org/pdf/1707.04615.pdf) | [Santosh Vempala](https://www.cc.gatech.edu/~vempala/) | Klaus 2100|
-| 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit Raj| Klaus 2100|
-| 28 Feb 2018 |[Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930)|[Samira Samadi](https://sites.google.com/site/ssamadi/) | Klaus 2100|
-| 14 Mar 2018 |[Alternating Minimization](http://www.prateekjain.org/publications/all_papers/JainK17_FTML.pdf)|[Bhuvesh Kumar](http://bhuveshkumar.com) | Klaus 2100|
-| 21 Mar 2018 ||[Andre Wibisono](https://people.eecs.berkeley.edu/~wibisono/) | Klaus 2100|
+**Prerequisites:** Familiarity with the analysis of algorithms, probabilistic analysis, and several similar topics. CS7641 (Machine Learning) will be quite helpful but not strictly necessary. The material is going to be about 90% "theory" and thus potential students must have a strong mathematical background. We shall rely heavily on techniques from calculus, probability, and convex analysis, but many tools will be presented in lecture.
+
+**Coursework:** There will be 4-5 problem sets, and the final project for the course will consist of the option to do independent research or to give a literature review presentation to the class.
+
+#### Grade Breakdown: TBA
 
 
+### References:
 
-Previous semesters: [Fall 2017](fall17)
+Roughly half of the course will follow material from the following text:
+
+ * "[Foundations of Machine Learning](https://www.amazon.com/Foundations-Machine-Learning-Adaptive-Computation/dp/026201825X)" by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+
+In the last several years, several surveys have come out that explore several topics that we shall cover. I will link to them here, and will mention them in various lectures when appropriate:
+
+* [The Multiplicative Weights Update Method](http://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf) by Sanjeev Arora, Elad Hazan, and Satyen Kale.
+* [Online Learning and Online Convex Optimization survey](http://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf) by Shai Shalev-Shwartz.
+* [The convex optimization approach to regret minimization survey](http://www.cs.princeton.edu/~ehazan/papers/OCO-survey.pdf) by Elad Hazan.
+* [Sasha Rakhlin's Lecture Notes](http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat928/stat928_notes.pdf).
+
+
+### Scribe Notes
+
+| Lecture | Date  | Topic |
+| :------------: |:-------------: |:-------------: |
 
 
 
-### Restaurants to order food from
-- [Cafe Agora](https://www.yelp.com/biz/cafe-agora-midtown-atlanta)
-- [Budi's Sushi](https://www.budissushi.com/)
-- [Vespucci's](http://www.vespuccispizza.com/)
-- [Tin Lizzy's](http://www.tinlizzyscantina.com/)
-- [Which Which](https://www.whichwich.com/)
+### Homeworks
+
+| Homework | Due Date  | 
+| :------------: |:-------------: |
