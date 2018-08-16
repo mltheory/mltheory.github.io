@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+This is the website for the ML Theory reading group organised by [Jacob Abernethy](http://web.eecs.umich.edu/~jabernet/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Wednesday at 11:30 am in the Klaus Advanced Computing Building.
 
-You can use the [editor on GitHub](https://github.com/mltheory/mltheory.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meetings Schedule and presenters
 
-### Markdown
+#### Spring 2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Date        | Paper         | Presenter |   Location|
+| :-------------: |:-------------: |:-------------: |:-------------: |
+| 10 Jan 2018    | General Discussion |  | Klaus 3100 |
+| 17 Jan 2018 | [Fast Convergence of Regularized Learning in Games](https://arxiv.org/pdf/1507.00407) | Naveen Kodali | Klaus 2100|
+| 24 Jan 2018 | [Learning Linear Dynamical Systems via Spectral Filtering](https://arxiv.org/abs/1711.00946) | [Ben Bray](http://benrbray.com/) | Klaus 2100|
+| 14 Feb 2018 | [On the Complexity of Learning Neural Networks](https://arxiv.org/pdf/1707.04615.pdf) | [Santosh Vempala](https://www.cc.gatech.edu/~vempala/) | Klaus 2100|
+| 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit Raj| Klaus 2100|
+| 28 Feb 2018 |[Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930)|[Samira Samadi](https://sites.google.com/site/ssamadi/) | Klaus 2100|
+| 14 Mar 2018 |[Alternating Minimization](http://www.prateekjain.org/publications/all_papers/JainK17_FTML.pdf)|[Bhuvesh Kumar](http://bhuveshkumar.com) | Klaus 2100|
+| 21 Mar 2018 ||[Andre Wibisono](https://people.eecs.berkeley.edu/~wibisono/) | Klaus 2100|
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Previous semesters: [Fall 2017](fall17)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mltheory/mltheory.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Restaurants to order food from
+- [Cafe Agora](https://www.yelp.com/biz/cafe-agora-midtown-atlanta)
+- [Budi's Sushi](https://www.budissushi.com/)
+- [Vespucci's](http://www.vespuccispizza.com/)
+- [Tin Lizzy's](http://www.tinlizzyscantina.com/)
+- [Which Which](https://www.whichwich.com/)
