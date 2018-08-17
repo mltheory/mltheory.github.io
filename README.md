@@ -2,7 +2,7 @@
 ### Course Information
 
 * **Course Info:**	CS7545, Fall 2018
-* **Instructor:**	Jacob Abernethy, **Office:** Klaus 2112, **Email:** prof_at_gatech_dot_edu
+* **Instructor:**	Jacob Abernethy, **Office:** Klaus 2134, **Email:** prof_at_gatech_dot_edu
 * **Time, Place:**	MW 4:30-5:45pm, Klaus 2443
 * **Office Hours**	TBA
 
@@ -13,7 +13,7 @@ This course will study theoretical aspects of prediction problems, where we seek
 
 **Prerequisites:** Familiarity with the analysis of algorithms, probabilistic analysis, and several similar topics. CS7641 (Machine Learning) will be quite helpful but not strictly necessary. The material is going to be about 90% "theory" and thus potential students must have a strong mathematical background. We shall rely heavily on techniques from calculus, probability, and convex analysis, but many tools will be presented in lecture.
 
-**Coursework:** There will be 4-5 problem sets, and the final project for the course will consist of the option to do independent research or to give a literature review presentation to the class.
+**Coursework:** There will be 4-5 problem sets, rest of the details will be added soon.
 
 #### Grade Breakdown: 
 TBA
@@ -37,7 +37,8 @@ In the last several years, several surveys have come out that explore several to
 
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
-| [1](./scribes/1.pdf) | 20 Aug 2018 | Intro |
+| [1](./scribes/1.pdf) | 20 Aug 2018 | Introduction |
+| [2](./scribes/2.pdf) | 22 Aug 2018 |  |
 
 
 
