@@ -15,8 +15,7 @@ This course will study theoretical aspects of prediction problems, where we seek
 
 **Coursework:** There will be 4-5 problem sets, rest of the details will be added soon.
 
-#### Grade Breakdown: 
-TBA
+**Grade Breakdown:** TBA
 
 
 ### References:
