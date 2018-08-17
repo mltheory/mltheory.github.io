@@ -4,7 +4,7 @@
 * **Course Info:**	CS7545, Fall 2018
 * **Instructor:**	Jacob Abernethy, **Office:** Klaus 2134, **Email:** prof_at_gatech_dot_edu
 * **Time, Place:**	MW 4:30-5:45pm, Klaus 2443
-* **Office Hours**	TBA
+* **Office Hours:**	TBA
 
 
 ### Course Description
