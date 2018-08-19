@@ -4,6 +4,9 @@
 * **Course Info:**	CS7545, Fall 2018
 * **Instructor:**	Jacob Abernethy, **Office:** Klaus 2134, **Email:** prof_at_gatech_dot_edu
 * **Time, Place:**	MW 4:30-5:45pm, Klaus 2443
+* **Teaching Assistants**:
+    - *Bhuvesh Kumar*, **Email:** bhuvesh_at_gatech.edu
+    - *Jun-Kun Wang*, **Email:** jimwang_at_gatech.edu
 * **Office Hours:**	TBA
 
 
@@ -19,6 +22,8 @@ This course will study theoretical aspects of prediction and decision-making pro
 * 50% - *Homeworks*
 * 40% - *Final Exam*
 * 10% - *Participation*
+
+**Note**: The final exam will be held on Friday, December 7, from 2:40-5:30pm.
 
 
 ### References:
