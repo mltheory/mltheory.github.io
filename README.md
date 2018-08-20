@@ -53,5 +53,6 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | Homework | Due Date  | 
 | :------------: |:-------------: |
 | [1](./hw/hw1.pdf) | TBA |
+
 [The Latex template for HW submissions is available here.](./hw/CS7545hw_template.tex)
 
