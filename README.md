@@ -46,10 +46,12 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | :------------: |:-------------: |:-------------: |
 | 1 Coming...    | 20 Aug 2018 | Introduction |
 
-
+[The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
 ### Homeworks
 
 | Homework | Due Date  | 
 | :------------: |:-------------: |
 | [1](./hw/hw1.pdf) | TBA |
+[The Latex template for HW submissions is available here.](./hw/CS7545hw_template.tex)
+
