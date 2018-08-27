@@ -45,7 +45,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
 | 1 Coming...    | 20 Aug 2018 | Introduction |
-| 2[./scribe/lec2.pdf]    | 22 Aug 2018 | Convex Analysis |
+| [2](./scribe/lec2.pdf)    | 22 Aug 2018 | Convex Analysis |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
