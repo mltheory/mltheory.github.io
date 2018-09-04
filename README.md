@@ -14,7 +14,6 @@
     - *Jun-Kun Wang*
         - **Email:** jimwang_at_gatech.edu
         - **Office Hours**: Wednesdays 11am-12pm, alcove of Klaus 2116/2124
-* **Office Hours:**	TBA
 
 
 ### Course Description
