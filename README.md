@@ -2,11 +2,18 @@
 ### Course Information
 
 * **Course Info:**	CS7545, Fall 2018
-* **Instructor:**	Jacob Abernethy, **Office:** Klaus 2134, **Email:** prof_at_gatech_dot_edu
-* **Time, Place:**	MW 4:30-5:45pm, Klaus 2443
+* **Instructor:**	Jacob Abernethy
+    - **Office:** Klaus 2134
+    - **Email:** prof_at_gatech_dot_edu
+    - **Office Hours:** 10-11am Wednesdays in Klaus 2134
+* **Course Time&Place:**	MW 4:30-5:45pm, Klaus 2443
 * **Teaching Assistants**:
-    - *Bhuvesh Kumar*, **Email:** bhuvesh_at_gatech.edu
-    - *Jun-Kun Wang*, **Email:** jimwang_at_gatech.edu
+    - *Bhuvesh Kumar*
+        - **Email:** bhuvesh_at_gatech.edu
+        - **Office Hours**: Mondays 2:30-3:30pm, alcove of Klaus 2116/2124
+    - *Jun-Kun Wang*
+        - **Email:** jimwang_at_gatech.edu
+        - **Office Hours**: Wednesdays 11am-12pm, alcove of Klaus 2116/2124
 * **Office Hours:**	TBA
 
 
