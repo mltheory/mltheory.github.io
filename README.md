@@ -52,6 +52,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | :------------: |:-------------: |:-------------: |
 | [1](./scribe/lec1.pdf)   | 20 Aug 2018 | Introduction and norms |
 | [2](./scribe/lec2.pdf)    | 22 Aug 2018 | Convex analysis |
+| [3](./scribe/lec3.pdf)    | 27 Aug 2018 | Convex Analysis + Deviation Bounds |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
