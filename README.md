@@ -55,6 +55,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [3](./scribe/lec3.pdf)    | 27 Aug 2018 | Convex Analysis + Deviation Bounds |
 | [4](./scribe/lec4.pdf)    | 29 Aug 2018 | Concentration Inequalities |
 | [5](./scribe/lec5.pdf)    | 05 Sep 2018 | Martingales + Online Learning |
+| [6](./scribe/lec6.pdf)    | 10 Sep 2018 | Multiplicative Weights |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
