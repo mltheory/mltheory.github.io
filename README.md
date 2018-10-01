@@ -57,6 +57,9 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [5](./scribe/lec5.pdf)    | 05 Sep 2018 | Martingales + Online Learning |
 | [6](./scribe/lec6.pdf)    | 10 Sep 2018 | Multiplicative Weights |
 | [7](./scribe/lec7.pdf)    | 12 Sep 2018 | EWA + Perceptron |
+| [8](./scribe/lec8.pdf)    | 17 Sep 2018 | Perceptron + Game Theory |
+| [9](./scribe/lec9.pdf)    | 19 Sep 2018 | Zero-sum Games + Boosting |
+| [10](./scribe/lec10.pdf)   | 26 Sep 2018 | Boosting + Online Convex Optimization|
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
