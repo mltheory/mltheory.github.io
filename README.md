@@ -62,6 +62,8 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [10](./scribe/lec10.pdf)   | 26 Sep 2018 | Boosting + Online Convex Optimization|
 | [11](./scribe/lec11.pdf)    | 01 Oct 2018 | Online Convex Optimization |
 | [12](./scribe/lec12.pdf)   | 03 Oct 2018 | Online Convex Optimization (Cont.)|
+| [13](./scribe/lec13.pdf)    | 10 Oct 2018 |  |
+| [14](./scribe/lec14.pdf)   | 15 Oct 2018 | Multi-armed Bandits |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
