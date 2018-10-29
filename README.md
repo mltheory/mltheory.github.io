@@ -66,6 +66,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [14](./scribe/lec14.pdf)   | 15 Oct 2018 | Multi-armed Bandits |
 | [15](./scribe/lec15.pdf)   | 17 Oct 2018 |  |
 | [16](./scribe/lec16.pdf)   | 22 Oct 2018 | UCB algorithm |
+
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
 ### Homeworks
