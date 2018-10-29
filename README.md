@@ -59,13 +59,13 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [7](./scribe/lec7.pdf)    | 12 Sep 2018 | EWA + Perceptron |
 | [8](./scribe/lec8.pdf)    | 17 Sep 2018 | Perceptron + Game Theory |
 | [9](./scribe/lec9.pdf)    | 19 Sep 2018 | Zero-sum Games + Boosting |
-| [10](./scribe/lec10.pdf)   | 26 Sep 2018 | Boosting + Online Convex Optimization|
-| [11](./scribe/lec11.pdf)    | 01 Oct 2018 | Online Convex Optimization |
-| [12](./scribe/lec12.pdf)   | 03 Oct 2018 | Online Convex Optimization (Cont.)|
-| [13](./scribe/lec13.pdf)    | 10 Oct 2018 | FTRL |
-| [14](./scribe/lec14.pdf)   | 15 Oct 2018 | Multi-armed Bandits |
-| [15](./scribe/lec15.pdf)   | 17 Oct 2018 |  |
-| [16](./scribe/lec16.pdf)   | 22 Oct 2018 | UCB algorithm |
+| [10](./scribe/lec10.pdf)  | 26 Sep 2018 | Boosting + Online Convex Optimization|
+| [11](./scribe/lec11.pdf)  | 01 Oct 2018 | Online Convex Optimization |
+| [12](./scribe/lec12.pdf)  | 03 Oct 2018 | Online Convex Optimization (Cont.)|
+| [13](./scribe/lec13.pdf)  | 10 Oct 2018 | FTRL |
+| [14](./scribe/lec14.pdf)  | 15 Oct 2018 | Multi-armed Bandits |
+| [15](./scribe/lec15.pdf)  | 17 Oct 2018 ||
+| [16](./scribe/lec16.pdf)  | 22 Oct 2018 | UCB algorithm |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
