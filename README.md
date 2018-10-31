@@ -64,8 +64,9 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [12](./scribe/lec12.pdf)  | 03 Oct 2018 | Online Convex Optimization (Cont.)|
 | [13](./scribe/lec13.pdf)  | 10 Oct 2018 | FTRL |
 | [14](./scribe/lec14.pdf)  | 15 Oct 2018 | Multi-armed Bandits |
-| [15](./scribe/lec15.pdf)  | 17 Oct 2018 ||
+| [15](./scribe/lec15.pdf)  | 17 Oct 2018 | Stochastic Multi-Armed Bandits |
 | [16](./scribe/lec16.pdf)  | 22 Oct 2018 | UCB algorithm |
+| [17](./scribe/lec17.pdf)  | 24 Oct 2018 | Statistical Learning Theory |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
