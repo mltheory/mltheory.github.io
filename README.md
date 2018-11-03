@@ -77,6 +77,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [1](./hw/hw1.pdf) | Sep 10 2018, 2:00 pm |
 | [2](./hw/hw2.pdf) | Sep 24 2018, 2:00 pm |
 | [3](./hw/hw3.pdf) | Oct 17 2018, 2:00 pm |
+| [4](./hw/hw4.pdf) | Nov 16 2018, 4:00 pm |
 
 [The Latex template for HW submissions is available here.](./hw/CS7545hw_template.tex)
 
