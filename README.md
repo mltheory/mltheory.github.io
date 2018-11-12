@@ -69,7 +69,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [17](./scribe/lec17.pdf)  | 24 Oct 2018 | Statistical Learning Theory |
 | [18](./scribe/lec18.pdf)  | 29 Oct 2018 | Contextual Bandits |
 | [19](./scribe/lec19.pdf)  | 31 Oct 2018 | Reinforcement Learning |
-| [20](./scribe/lec20.pdf)  | 05 Nov 2018 | VC Dimension + Radamacher Complexity |
+| [20](./scribe/lec20.pdf)  | 05 Nov 2018 | VC Dimension + Rademacher Complexity |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
