@@ -70,6 +70,8 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [18](./scribe/lec18.pdf)  | 29 Oct 2018 | Contextual Bandits |
 | [19](./scribe/lec19.pdf)  | 31 Oct 2018 | Reinforcement Learning |
 | [20](./scribe/lec20.pdf)  | 05 Nov 2018 | VC Dimension + Rademacher Complexity |
+| [21](./scribe/lec21.pdf)  | 07 Nov 2018 | Growth Function and Massart’s Lemma |
+
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
