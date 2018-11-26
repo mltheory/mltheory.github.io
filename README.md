@@ -71,7 +71,8 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [19](./scribe/lec19.pdf)  | 31 Oct 2018 | Reinforcement Learning |
 | [20](./scribe/lec20.pdf)  | 05 Nov 2018 | VC Dimension + Rademacher Complexity |
 | [21](./scribe/lec21.pdf)  | 07 Nov 2018 | Growth Function and Massart’s Lemma |
-
+| [22](./scribe/lec22.pdf)  | 12 Nov 2018 | Massart’s Lemma and Sauer’s Lemma |
+| [23](./scribe/lec23.pdf)  | 14 Nov 2018 | VC-Dimension Upper & Lower Bounds |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
