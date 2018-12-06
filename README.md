@@ -73,6 +73,8 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [21](./scribe/lec21.pdf)  | 07 Nov 2018 | Growth Function and Massart’s Lemma |
 | [22](./scribe/lec22.pdf)  | 12 Nov 2018 | Massart’s Lemma and Sauer’s Lemma |
 | [23](./scribe/lec23.pdf)  | 14 Nov 2018 | VC-Dimension Upper & Lower Bounds |
+| [24](./scribe/lec24.pdf)  | 19 Nov 2018 | Generalization Error + Margin Theory|
+| [25](./scribe/lec25.pdf)  | 26 Nov 2018 | VC Dimension of Neural Networks |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
