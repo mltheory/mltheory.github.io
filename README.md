@@ -75,6 +75,7 @@ Much of the material in online learning (aka regret minimization) is of my own t
 | [23](./scribe/lec23.pdf)  | 14 Nov 2018 | VC-Dimension Upper & Lower Bounds |
 | [24](./scribe/lec24.pdf)  | 19 Nov 2018 | Generalization Error + Margin Theory|
 | [25](./scribe/lec25.pdf)  | 26 Nov 2018 | VC Dimension of Neural Networks |
+| [26](./scribe/lec26.pdf)  | 26 Nov 2018 | Variational inference |
 
 [The Latex template for scribes is available here.](./scribe/CS7545scribe_template.tex)
 
