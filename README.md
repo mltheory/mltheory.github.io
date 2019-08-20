@@ -1,5 +1,7 @@
 This is the website for the ML Theory reading group organized by [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every week in CODA. Email Jake if you wish you attend. 
 
+[If you're looking for the CS7545- Machine learning Theory course webiste, click here.](./CS7545)
+
 
 ### Meetings Schedule and presenters
 
