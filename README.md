@@ -1,4 +1,4 @@
-This is the website for the ML Theory reading group organized by [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Friday at 12:00PM in CODA 1247. Email Tyler at <tlabonte@gatech.edu> if you wish to attend.
+This is the website for the ML Theory reading group organized by [Jacob Abernethy](https://www.cc.gatech.edu/~jabernethy9/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Friday at 12:00PM in CODA 1247. Email [Tyler LaBonte](https://tyler-labonte.com) at <tlabonte@gatech.edu> if you wish to attend.
 
 [If you're looking for the CS7545: Machine Learning Theory course website, click here.](./CS7545)
 
