@@ -11,7 +11,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 25 Feb 2022   | General Discussion                                          |                                                                    |
 | 4 March 2022  | A Tutorial on Differential Privacy                          | [Juba Ziani](https://www.isye.gatech.edu/users/juba-ziani)         |
 | 11 March 2022 | [Inverse Bandits, Part I](https://arxiv.org/abs/2106.14866) | Krishna Acharya                                                    |
-| 18 March 2022 | [Inverse Bandits, Part I](https://arxiv.org/abs/2106.14866) | Krishna Acharya                                                    |
+| 18 March 2022 | [Inverse Bandits, Part II](https://arxiv.org/abs/2106.14866) | Krishna Acharya                                                    |
 | 25 March 2022 | Federated Learning and Differential Privacy                 | [Yeojoon Youn](https://www.linkedin.com/in/yeojoon-youn-84971b168) |
 | 1 April 2022  | | |
 | 8 April 2022  | | |
