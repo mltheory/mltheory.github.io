@@ -7,12 +7,12 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 #### Spring 2022
 
 | Date          | Paper                                                                                                              | Presenter                                                          |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| 25 Feb 2022   | General Discussion                                                                                                 |                                                                                    |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| 25 Feb 2022   | General Discussion                                                                                                 |                                                                          |
 | 4 March 2022  | A Tutorial on Differential Privacy                                                                                 | [Juba Ziani](https://www.isye.gatech.edu/users/juba-ziani)       |
-| 11 March 2022 | [Learning from an Exploring Demonstrator: Optimal Reward Estimation for Bandits](https://arxiv.org/abs/2106.14866) | Krishna Acharya                                                                    |
+| 11 March 2022 | [Learning from an Exploring Demonstrator: Optimal Reward Estimation for Bandits](https://arxiv.org/abs/2106.14866) | Krishna Acharya                                                          |
 | 18 March 2022 | [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559)      | [Yeojoon Youn](https://www.linkedin.com/in/yeojoon-youn-84971b168) |
-| 25 March 2022 | | |
+| 25 March 2022 | [Practical and Private (Deep) Learning without Sampling or Shuffling](https://arxiv.org/abs/2103.00039)            | [Zihao Hu](https://zihaohu.github.io/)                         |
 | 1 April 2022  | | |
 | 8 April 2022  | | |
 | 15 April 2022 | | |
