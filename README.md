@@ -14,7 +14,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 18 March 2022 | [cpSGD: Communication-efficient and differentially-private distributed SGD](https://arxiv.org/abs/1805.10559)      | [Yeojoon Youn](https://www.linkedin.com/in/yeojoon-youn-84971b168) |
 | 25 March 2022 | [Practical and Private (Deep) Learning without Sampling or Shuffling](https://arxiv.org/abs/2103.00039)            | [Zihao Hu](https://zihaohu.github.io/)                         |
 | 1 April 2022  | No Meeting | |
-| 8 April 2022  | | Guanghui Wang |
+| 8 April 2022  | [Follow the Leader If You Can, Hedge If You Must](https://arxiv.org/abs/1301.0534) | Guanghui Wang |
 | 15 April 2022 | | |
 | 22 April 2022 | | |
 | 29 April 2022 | | |
