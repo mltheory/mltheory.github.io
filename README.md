@@ -17,8 +17,6 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 8 April 2022  | [Follow the Leader If You Can, Hedge If You Must](https://arxiv.org/abs/1301.0534)                                 | Guanghui Wang                                                             |
 | 15 April 2022 | [What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/abs/1911.13299)                           | [Pratik Deolasi](https://www.linkedin.com/in/pratik-deolasi-71a679194/) |
 | 22 April 2022 | [Generalization in Deep Networks: The Role of Distance from Initialization](https://arxiv.org/abs/1901.01672)      | [Tyler LaBonte](https://tyler-labonte.com)                             |
-| 29 April 2022 | | |
-| 6 May 2022    | | |
-| 13 May 2022   | | |
+| 29 April 2022 | [Stable Conformal Prediction Sets](https://arxiv.org/abs/2112.10224)                                               | Etash Guha                                                                 |
 
 Previous semesters: [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
