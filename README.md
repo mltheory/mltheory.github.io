@@ -6,10 +6,14 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 
 #### Fall 2022
 
-| Date          | Paper                                                                                                              | Presenter                                                              |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| 2 Sept 2022   | General Discussion                                                                                                 |                                                                           |
-| 9 Sept 2022   | [Provable Lifelong Learning of Representations](https://arxiv.org/abs/2110.14098)                                  | [Xinyuan Cao](https://youki-cao.github.io/)                        |
+| Date          | Paper                                                                                 | Presenter                                   |
+| :-----------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------: |
+| 2 Sept 2022   | General Discussion                                                                    |                                             |
+| 9 Sept 2022   | [Provable Lifelong Learning of Representations](https://arxiv.org/abs/2110.14098)     | [Xinyuan Cao](https://youki-cao.github.io/) |
+| 16 Sept 2022  | [Convex and Non-Convex Projected Gradient Descent](https://arxiv.org/abs/1712.07897)  | Guanghui Wang                               |
+| 23 Sept 2022  | [Alternating Minimization](https://arxiv.org/abs/1712.07897)                          | Krishna Acharya                             |
+| 30 Sept 2022  | [Expectation Maximization](https://arxiv.org/abs/1712.07897)                          |                                             |
+| 7 Oct 2022    | [Stochastic Optimization](https://arxiv.org/abs/1712.07897)                           |                                             |
 
 
 Previous semesters: [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
