@@ -10,7 +10,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | :-----------: | :----------------------------------------------------------------------------------: | :-------------------------------------------: |
 | 2 Sept 2022   | General Discussion                                                                   |                                               |
 | 9 Sept 2022   | [Provable Lifelong Learning of Representations](https://arxiv.org/abs/2110.14098)    | [Xinyuan Cao](https://youki-cao.github.io/)   |
-| 16 Sept 2022  | [Convex and Non-Convex Projected Gradient Descent](https://arxiv.org/abs/1712.07897) | [Guanghui Wang](https://tinyurl.com/yuhetv94) |
+| 16 Sept 2022  | [Convex and Non-Convex Projected Gradient Descent](https://arxiv.org/abs/1712.07897) | [Guanghui Wang](https://guanghui-wang-gatech.github.io/) |
 | 23 Sept 2022  | [Alternating Minimization](https://arxiv.org/abs/1712.07897)                         | [Krishna Acharya](https://krishnacharya.github.io) |
 | 30 Sept 2022  | [Expectation Maximization](https://arxiv.org/abs/1712.07897)                         | [Kuo-Wei Lai](https://tinyurl.com/25ud7stp)   |
 | 7 Oct 2022    | [Stochastic Optimization](https://arxiv.org/abs/1712.07897)                          |                                               |
