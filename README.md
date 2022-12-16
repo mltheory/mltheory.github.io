@@ -17,7 +17,9 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 14 Oct 2022   | No Meeting                                                                                    |                                                 |
 | 21 Oct 2022   | [Matrix Completion has No Spurious Local Minimum](https://arxiv.org/abs/1605.07272)           | Arvind Ramaswami                                |
 | 28 Oct 2022   | [The Statistical Complexity of Interactive Decision Making](https://arxiv.org/abs/2112.13487) | [Dylan Foster](https://dylanfoster.net)         |
-| 4 Nov 2022    | [How to Escape Saddle Points Efficiently](https://arxiv.org/abs/1703.00887)                   | Yeojoon Youn
+| 4 Nov 2022    | [How to Escape Saddle Points Efficiently](https://arxiv.org/abs/1703.00887)                   | Yeojoon Youn                                    |
+| 11 Nov 2022   | [The Implicit Bias of Gradient Descent on Separable Data](https://arxiv.org/abs/1710.10345)   | [Tyler LaBonte](https://tyler-labonte.com)      |
+| 18 Nov 2022   | NeurIPS 2022 Lightning Talks                                                                  | Everyone :)                                     |
 
 
 
