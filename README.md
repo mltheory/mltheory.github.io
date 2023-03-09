@@ -14,7 +14,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 10 Feb 2023 | [Spectral Methods for Data Science: A Statistical Perspective](https://arxiv.org/abs/2012.08496)                   | Chiraag Kaushik                                                                      | 
 | 17 Feb 2023 | [Spectral Methods for Data Science: A Statistical Perspective](https://arxiv.org/abs/2012.08496)                   | Yun-Feng Lo                                                                          |
 | 24 Feb 2023 | [Characterizing the implicit bias via a primal-dual analysis](http://proceedings.mlr.press/v132/ji21a/ji21a.pdf)   | [Kuo-Wei Lai](https://scholar.google.com/citations?user=4xx3pdoAAAAJ&hl=en) |
-| 3 Mar 2023  | [Learning Strongly Monotone Problems: From Full Information to Bandit Feedback](https://arxiv.org/abs/1911.11936)  | [Yifan Wang] (https://litcwyf.github.io/)                                   |
+| 3 Mar 2023  | [Learning Strongly Monotone Problems: From Full Information to Bandit Feedback](https://arxiv.org/abs/1911.11936)  | [Yifan Wang](https://litcwyf.github.io/)                                   |
 | 10 Mar 2023 | No meeting due to [ACORN](https://sites.gatech.edu/acorn/)                                                         |                                                                                      |
 
 
