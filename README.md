@@ -18,6 +18,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 10 Mar 2023 | No meeting due to [ACORN](https://sites.gatech.edu/acorn/)                                                         |                                                                                    |
 | 17 Mar 2023 | No meeting due to Andre Wibisono visit                                                                             |                                                                                    |
 | 24 Mar 2023 | No meeting due to spring break                                                                                     |                                                                                    |
+| 31 Mar 2023 | [Dueling-Opt: Convex Optimization with Relative Feedback](https://proceedings.mlr.press/v139/saha21b.html)         | [Aadirupa Saha](https://aadirupa.github.io/)                                  |
 
 
 Previous semesters: [Fall 2022](fall22), [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
