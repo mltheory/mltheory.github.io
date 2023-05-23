@@ -21,7 +21,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 31 Mar 2023 | [Dueling-Opt: Convex Optimization with Relative Feedback](https://proceedings.mlr.press/v139/saha21b.html)                     | [Aadirupa Saha](https://aadirupa.github.io/)                                 |
 | 7 Apr 2023  | [The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation](https://arxiv.org/abs/2102.06387) | [Yeojoon Youn](https://www.linkedin.com/in/yeojoon-youn-84971b168)          |
 | 14 Apr 2023 | [Covariance estimation for distributions with 2 + ε moments](https://arxiv.org/abs/1106.2775)                                  | [Xinyuan Cao](https://youki-cao.github.io/)                                 |
-| 21 Apr 2023 | | [Zihao Hu](https://zihaohu.github.io/) |
+| 21 Apr 2023 | [New Projection-free Algorithms for Online Convex Optimization with Adaptive Regret Guarantees](https://arxiv.org/abs/2202.04721) | [Zihao Hu](https://zihaohu.github.io/) |
 
 
 Previous semesters: [Fall 2022](fall22), [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
