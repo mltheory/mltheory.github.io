@@ -17,8 +17,7 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 21 Mar 2025 | No meeting due to Spring Break |
 | 28 Mar 2025 | [Flow Matching Guide and Code, Chapters 2-3](https://arxiv.org/abs/2412.06264) | [Rakshit Naidu](https://rakshit-naidu.github.io) |
 | 04 Apr 2025 | [Flow Matching Guide and Code, Chapter 4](https://arxiv.org/abs/2412.06264) | [Guanghui Wang](https://guanghui-wang-gatech.github.io) |
-| 11 Apr 2025 | [Flow Matching Guide and Code, Chapters 6-8](https://arxiv.org/abs/2412.06264) |
-| 18 Apr 2025 | [Flow Matching Guide and Code, Chapters 9-10](https://arxiv.org/abs/2412.06264) |
-| 25 Apr 2025 | |
+| 11 Apr 2025 | [Flow Matching Guide and Code, Chapters 6-8](https://arxiv.org/abs/2412.06264) | Milind Nakul |
+| 18 Apr 2025 | [Flow Matching Guide and Code, Chapters 9-10](https://arxiv.org/abs/2412.06264) | Kason Ancelin |
 
 Previous semesters: [Spring 2024](spring24), [Fall 2023](fall23), [Summer 2023](summer23), [Spring 2023](spring23), [Fall 2022](fall22), [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
