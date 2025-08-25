@@ -4,7 +4,9 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 
 ### Meetings Schedule and presenters
 
-#### Spring 2025 Topic: Theory of Diffusion Models 
+This semester, we will not be holding the routine reading group. Instead, participants are welcome to attend the seminar course [CS 8803: Dynamics to Algorithms: Optimization, Sampling, and Games](https://sites.google.com/view/cs8803/home), taught by [Andre Wibisono](https://www.cs.yale.edu/homes/wibisono/), on Fridays from 11:00 am to 1:45 pm.
+
+<!-- #### Spring 2025 Topic: Theory of Diffusion Models 
 
 | Date        | Paper    | Presenter   |
 | :---------: | :------: | :---------: |
@@ -18,6 +20,6 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 28 Mar 2025 | [Flow Matching Guide and Code, Chapters 2-3](https://arxiv.org/abs/2412.06264) | [Rakshit Naidu](https://rakshit-naidu.github.io) |
 | 04 Apr 2025 | [Flow Matching Guide and Code, Chapter 4](https://arxiv.org/abs/2412.06264) | [Guanghui Wang](https://guanghui-wang-gatech.github.io) |
 | 11 Apr 2025 | [Flow Matching Guide and Code, Chapters 6-8](https://arxiv.org/abs/2412.06264) | Milind Nakul |
-| 18 Apr 2025 | [Flow Matching Guide and Code, Chapters 9-10](https://arxiv.org/abs/2412.06264) | Kason Ancelin |
+| 18 Apr 2025 | [Flow Matching Guide and Code, Chapters 9-10](https://arxiv.org/abs/2412.06264) | Kason Ancelin | -->
 
-Previous semesters: [Spring 2024](spring24), [Fall 2023](fall23), [Summer 2023](summer23), [Spring 2023](spring23), [Fall 2022](fall22), [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
+Previous semesters: [Spring 2025](spring25), [Spring 2024](spring24), [Fall 2023](fall23), [Summer 2023](summer23), [Spring 2023](spring23), [Fall 2022](fall22), [Spring 2022](spring22), [Fall 2018](fall18), [Spring 2018](spring18), [Fall 2017](fall17)
